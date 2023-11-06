@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 😍
 
-<!--
-**lucas07032007/lucas07032007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Lucas Fonseca
 
-Here are some ideas to get you started:
+ - Estou estudano em [Alura](https://www.alura.com.br)
+ - Estou me desenvolveno na linguarem javaScript
+ - utilizo esse espaço para minha organização e compartilhamento dos meus projeto desenvolvios
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voçê entra em contato comigo 📫
+
+lucas.emanoel.fonseca@escola.pr.gov.br
+
+@lucasfonseca
+
+![](https://media.tenor.com/P3071wk1eXcAAAAC/laughing-baby.gif)
